@@ -1,0 +1,3 @@
+add_subdirectory(shared)
+add_subdirectory(make_hgrid)
+add_subdirectory(make_mosaic)
